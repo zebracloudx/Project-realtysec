@@ -31,7 +31,7 @@ The scope of the ISMS covers functionality of the solo real estate agency, speci
 - External Issue- Establishing boundaries against the third party platforms, Our ISMS States that third party and messaging servers are Out of scope.
 Their infrastructure is managed by external vendors and not the solo office.
 
-#INTERFACES
+# INTERFACES
 -Inbound client inquires back and forth, sending Transactional and property documents via whatsapp and email, property ads posted in public domains (magicbricks and 99 acres)
 # DEPARTMENT 
 - Self Managed by owner, no separate IT or HR departments, Proprietor handles their own device passwords and device security
