@@ -10,7 +10,7 @@ In order to establish ISMS to a hypothetical real estate agency, We must determi
 - Client expectations regarding data privacy (PAN numbers, bank details).
 - Dependence on third party property portals (MagicBricks or 99acres) and communication tools (WhatsApp) whose security and servers are entirely managed by outside companies.
 
-### Internal Issues (Examples to discuss):
+### Internal Issues
 - Solo operator working out of a local shop.
 - Dependence on a single personal laptop and smartphone.
 - Physical office security where walk-in strangers or Clients see sensitive client documents or phone numbers left lying on the desk.
