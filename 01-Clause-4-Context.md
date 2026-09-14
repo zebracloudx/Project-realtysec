@@ -19,9 +19,9 @@ In order to establish ISMS to a hypothetical real estate agency, We must determi
 we need to identify the stakeholders relevant to our ISMS and what requirements do they have from us
 
 ## Key interested parties and their expectations
--Clients (Property Buyers and Sellers) -strict privacy of their personal information (PAN card, Aadhar Card, Bank details, Phone number, Property Tax ID's)
--Real estate regulatory authorities- Following legal protocols, proper handling of property transaction records) 
--The Business owners - Make sure his device don't break and deals aren't lost and protection against financial fraud or data theft
+- Clients (Property Buyers and Sellers) -strict privacy of their personal information (PAN card, Aadhar Card, Bank details, Phone number, Property Tax ID's)
+- Real estate regulatory authorities- Following legal protocols, proper handling of property transaction records) 
+- The Business owners - Make sure his device don't break and deals aren't lost and protection against financial fraud or data theft
 
 # 4.3 Determining the Scope of ISMS
 The scope of the ISMS covers functionality of the solo real estate agency, specifically focusing on the digital and physical handling of client property records, communication channel and transaction data managed by a single laptop and smartphone from a local shop in bengaluru
