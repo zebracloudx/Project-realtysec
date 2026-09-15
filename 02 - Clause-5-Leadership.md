@@ -53,5 +53,5 @@
 • The only person who can change rules, accept risks, or update policies.
 
 ### Accountability & Reporting
-. As top management, the proprietor self-audits adherence to these baseline habits during monthly 15-minute reviews.
-. Client facing terms or on boarding notes implicitly communicate that the broker holds authority over data hygiene standards during transactions.
+• As top management, the proprietor self-audits adherence to these baseline habits during monthly 15-minute reviews.
+• Client facing terms or on boarding notes implicitly communicate that the broker holds authority over data hygiene standards during transactions.
