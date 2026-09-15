@@ -19,13 +19,8 @@
 > **Project RealitySec:** is committed to safeguarding client personal information (PAN, phone numbers, agreement hard copies) and transactional data against accidental disclosure, physical walk in visibility, or unauthorized device access.
 
 ### Policy Operational Alignment
-###1. Purpose of the organization
-Information security Objectives: 
-• Applicable  Requirements :
-• Continual Improvement:
-• Document Control & Availability:
-• Communication:
-• Availability for Interested Parties:
+### 1. Purpose of the organization
+
 
 ## Clause 5.3 Organizational Roles, Responsibilities, and Authorities
 > **Project RealtySec** is a solo-operator practice, all information security responsibilities are assigned across the functional "hats" worn by the proprietor:
