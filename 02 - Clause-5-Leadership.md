@@ -19,13 +19,13 @@
 > **Project RealitySec:** is committed to safeguarding client personal information (PAN, phone numbers, agreement hard copies) and transactional data against accidental disclosure, physical walk in visibility, or unauthorized device access.
 
 ### Policy Operational Alignment
-• Purpose of the organization :** Tailored to solo real estate brokerage operations in urban Bangalore,
-• Information security Objectives:** Zero leaks of unmasked client ID/KYC info, paired with tight physical and digital lockups.
-• Applicable  Requirements :** Follows standard data protection rules for private personal and financial details.
-• Continual Improvement:** Checked once a year, or whenever we switch to new listing websites or chat/email tools.
-• Document Control & Availability:** Maintained as documented ISMS information within the project repository; communicated transparently to clients and made available to relevant interested parties upon verified request.
-• Communication:** Clear on boarding rules tell clients how their ID documents are kept safe, and the team follows good daily habits.
-• Availability for Interested Parties:** Saved inside ISMS project docs and shared upon request with enterprise clients, partners, or auditors who need to verify it.
+• Purpose of the organization: Tailored to solo real estate brokerage operations in urban Bangalore.
+• Information security Objectives:Zero leaks of unmasked client ID/KYC info, paired with tight physical and digital lockups.
+• Applicable  Requirements :Follows standard data protection rules for private personal and financial details.
+• Continual Improvement:Checked once a year, or whenever we switch to new listing websites or chat/email tools.
+• Document Control & Availability: Maintained as documented ISMS information within the project repository; communicated transparently to clients and made available to relevant interested parties upon verified request.
+• Communication:Clear on boarding rules tell clients how their ID documents are kept safe, and the team follows good daily habits.
+• Availability for Interested Parties:Saved inside ISMS project docs and shared upon request with enterprise clients, partners, or auditors who need to verify it.
 
 ## Clause 5.3 Organizational Roles, Responsibilities, and Authorities
 > **Project RealtySec** is a solo-operator practice, all information security responsibilities are assigned across the functional "hats" worn by the proprietor:
