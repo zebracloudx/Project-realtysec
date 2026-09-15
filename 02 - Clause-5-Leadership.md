@@ -27,8 +27,8 @@
 * **Communication:** Clear on boarding rules tell clients how their ID documents are kept safe, and the team follows good daily habits.
 * **Availability for Interested Parties:** Saved inside ISMS project docs and shared upon request with enterprise clients, partners, or auditors who need to verify it.
 
-  ## Clause 5.3 Organizational Roles, Responsibilities, and Authorities
-  **Project RealtySec** is a solo-operator practice, all information security responsibilities are assigned across the functional "hats" worn by the proprietor:
+## Clause 5.3 Organizational Roles, Responsibilities, and Authorities
+**Project RealtySec** is a solo-operator practice, all information security responsibilities are assigned across the functional "hats" worn by the proprietor:
   
 **1. Principal Broker** *(Sales & Client Intake)* 
 • Only ask for ID or financial papers when strictly needed
