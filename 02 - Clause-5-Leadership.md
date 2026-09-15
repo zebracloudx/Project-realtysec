@@ -19,7 +19,7 @@
 > **Project RealitySec:** is committed to safeguarding client personal information (PAN, phone numbers, agreement hard copies) and transactional data against accidental disclosure, physical walk in visibility, or unauthorized device access.
 
 ### Policy Operational Alignment
-## 1. Purpose of the organization
+1. Purpose of the organization
 
 
 ## Clause 5.3 Organizational Roles, Responsibilities, and Authorities
