@@ -54,5 +54,5 @@ As the solo business owner acting as top management, leadership and commitment a
 • The only person who can change rules, accept risks, or update policies.
 
 ### Accountability & Reporting
-• As top management, the proprietor self-audits adherence to these baseline habits during monthly 15-minute reviews.
-• Client facing terms or on boarding notes implicitly communicate that the broker holds authority over data hygiene standards during transactions.
+• As top management, you review your own security habits once a month during your quick 15-minute checkup.
+• client agreement terms quietly show clients that you are in charge of keeping data clean and safe during the deal.
