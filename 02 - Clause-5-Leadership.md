@@ -19,7 +19,13 @@
 > **Project RealitySec:** is committed to safeguarding client personal information (PAN, phone numbers, agreement hard copies) and transactional data against accidental disclosure, physical walk in visibility, or unauthorized device access.
 
 ### Policy Operational Alignment
-1. Purpose of the organization
+1. Purpose of the organization: Built just for a solo real estate business in urban Bengaluru.
+2. Information security Objectives: Never leak unmasked client ID or KYC info, and keep everything locked down digitally and physically.
+3. Applicable  Requirements: Follows standard privacy rules for personal and financial details.
+4. Continual Improvement: Checked once a year, or whenever you switch to new listing websites, chat apps, or email tools.
+5. Document Control & Availability: Saved securely in your project folder, shared clearly with clients, and available to anyone who officially asks to see it.
+6. Communication: Clear on boarding rules explain to clients how their ID documents are kept safe, backed up by your good daily habits
+7. Availability for Interested Parties:Stored in your project files and shared upon request with business clients, partners, or auditors who need to verify it.
 
 
 ## Clause 5.3 Organizational Roles, Responsibilities, and Authorities
