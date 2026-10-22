@@ -6,9 +6,9 @@
 In order to establish ISMS to a hypothetical real estate agency, We must determine the external and internal issue that are relevant to its purpose and that affect its ability to achieve the intended outcome.
 
 ### Internal Issues
-- Solo operator working out of a local shop.
+
 - Dependence on a single personal laptop and smartphone.
-- Physical office security where walk-in strangers or Clients see sensitive client documents or phone numbers left lying on the desk.
+-
   
 
 | Sr.No. | Issue Type | Issue Description | Stakeholder/Interested Parties | Impact | Risk | Coverage in ISMS Implementation
@@ -16,8 +16,9 @@ In order to establish ISMS to a hypothetical real estate agency, We must determi
 | 1 | External | Local real estate market regulatory compliance | Real Estate Regulatory Authorities | Fines, legal liability, or loss of license due to non compliance in handling transaction records | High | Legal & Regulatory Compliance Policy, Information Classification Policy |
 | 2 | External | Client expectations regarding data privacy (PAN numbers, bank details) | Clients (Property Buyers and Sellers) | Loss of client trust, reputation damage, and potential litigation over data leaks | High | Privacy & Data Protection Policy, Non Disclosure Agreement |
 | 3 | External | Dependence on third party property portals (MagicBricks or 99acres) and communication tools (WhatsApp) whose security and servers are entirely managed by outside companies | External Vendors / Software Providers | Loss of access to communication channels or external server breach affecting client messages | Medium | Supplier / Third-Party Risk Management Policy, Acceptable Use Policy |
-
-
+| 4 | Internal | Solo operator working out of a local shop | Business Owner | Single point of failure, business halts if owner is unavailable | Medium | Business Continuity Plan (BCP), Operational Security Procedure |
+| 5 | Internal | Dependence on a single personal laptop and smartphone | Business Owner | Data loss, corruption, or malware attack impacting core business operations and records | High | Endpoint Device Security Policy, Data Backup & Recovery Policy |
+| 6 | Internal | Physical office security where walk in strangers or Clients see sensitive client documents or phone numbers left lying on the desk. | Walk-in Clients & Visitors | Unauthorized visual access to confidential client documents and phone numbers | Medium | Physical & Environmental Security Policy, Clear Desk & Clear Screen Policy |
 
 # 4.2 Understanding the needs and expectation of the interested parties
 we need to identify the stakeholders relevant to our ISMS and what requirements do they have from us
