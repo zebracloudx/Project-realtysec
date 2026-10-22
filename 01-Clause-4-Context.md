@@ -6,7 +6,7 @@
 In order to establish ISMS to a hypothetical real estate agency, We must determine the external and internal issue that are relevant to its purpose and that affect its ability to achieve the intended outcome.
 
 ### External Issues 
-- Local real estate market regulatory compliance.
+
 - Client expectations regarding data privacy (PAN numbers, bank details).
 - Dependence on third party property portals (MagicBricks or 99acres) and communication tools (WhatsApp) whose security and servers are entirely managed by outside companies.
 ### Internal Issues
@@ -17,6 +17,7 @@ In order to establish ISMS to a hypothetical real estate agency, We must determi
 
 | Sr.No. | Issue Type | Issue Description | Stakeholder/Interested Parties | Impact | Risk | Coverage in ISMS Implementation
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | External | Local real estate market regulatory compliance | Real Estate Regulatory Authorities | Fines, legal liability, or loss of license due to non-compliance in handling transaction records | High | Legal & Regulatory Compliance Policy, Information Classification Policy |
 
 
 # 4.2 Understanding the needs and expectation of the interested parties
