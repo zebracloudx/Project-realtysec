@@ -5,12 +5,6 @@
 # 4.1 Understanding the Organization and its Context
 In order to establish ISMS to a hypothetical real estate agency, We must determine the external and internal issue that are relevant to its purpose and that affect its ability to achieve the intended outcome.
 
-### Internal Issues
-
-- Dependence on a single personal laptop and smartphone.
--
-  
-
 | Sr.No. | Issue Type | Issue Description | Stakeholder/Interested Parties | Impact | Risk | Coverage in ISMS Implementation
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | External | Local real estate market regulatory compliance | Real Estate Regulatory Authorities | Fines, legal liability, or loss of license due to non compliance in handling transaction records | High | Legal & Regulatory Compliance Policy, Information Classification Policy |
