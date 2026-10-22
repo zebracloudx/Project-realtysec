@@ -9,11 +9,15 @@ In order to establish ISMS to a hypothetical real estate agency, We must determi
 - Local real estate market regulatory compliance.
 - Client expectations regarding data privacy (PAN numbers, bank details).
 - Dependence on third party property portals (MagicBricks or 99acres) and communication tools (WhatsApp) whose security and servers are entirely managed by outside companies.
-
 ### Internal Issues
 - Solo operator working out of a local shop.
 - Dependence on a single personal laptop and smartphone.
 - Physical office security where walk-in strangers or Clients see sensitive client documents or phone numbers left lying on the desk.
+  
+
+| Sr.No. | Issue Type | Issue Description | Stakeholder/Interested Parties | Impact | Risk | Coverage in ISMS Implementation
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+
 
 # 4.2 Understanding the needs and expectation of the interested parties
 we need to identify the stakeholders relevant to our ISMS and what requirements do they have from us
