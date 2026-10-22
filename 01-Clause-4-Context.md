@@ -5,10 +5,6 @@
 # 4.1 Understanding the Organization and its Context
 In order to establish ISMS to a hypothetical real estate agency, We must determine the external and internal issue that are relevant to its purpose and that affect its ability to achieve the intended outcome.
 
-### External Issues 
-
-
-
 ### Internal Issues
 - Solo operator working out of a local shop.
 - Dependence on a single personal laptop and smartphone.
