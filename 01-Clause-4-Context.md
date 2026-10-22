@@ -12,7 +12,7 @@ In order to establish ISMS to a hypothetical real estate agency, We must determi
   
 
 | Sr.No. | Issue Type | Issue Description | Stakeholder/Interested Parties | Impact | Risk | Coverage in ISMS Implementation
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | External | Local real estate market regulatory compliance | Real Estate Regulatory Authorities | Fines, legal liability, or loss of license due to non compliance in handling transaction records | High | Legal & Regulatory Compliance Policy, Information Classification Policy |
 | 2 | External | Client expectations regarding data privacy (PAN numbers, bank details) | Clients (Property Buyers and Sellers) | Loss of client trust, reputation damage, and potential litigation over data leaks | High | Privacy & Data Protection Policy, Non Disclosure Agreement |
 | 3 | External | Dependence on third party property portals (MagicBricks or 99acres) and communication tools (WhatsApp) whose security and servers are entirely managed by outside companies | External Vendors / Software Providers | Loss of access to communication channels or external server breach affecting client messages | Medium | Supplier / Third-Party Risk Management Policy, Acceptable Use Policy |
