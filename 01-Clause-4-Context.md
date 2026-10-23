@@ -1,4 +1,4 @@
-# Project RealtySec: Securing Client Data & Transactional Assets in Real Estate Operations
+# :---: Project RealtySec: Securing Client Data & Transactional Assets in Real Estate Operations
 
 > *Note: The internal and external issues were derived from operational discussions with management.*
 
