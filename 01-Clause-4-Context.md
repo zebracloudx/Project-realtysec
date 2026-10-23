@@ -15,10 +15,10 @@ In order to establish ISMS to a hypothetical real estate agency, We must determi
 | 6 | Internal | Physical office security where walk in strangers or Clients see sensitive client documents or phone numbers left lying on the desk. | Walk-in Clients & Visitors | Unauthorized visual access to confidential client documents and phone numbers | Medium | Physical & Environmental Security Policy, Clear Desk & Clear Screen Policy |
 
 # 4.2 Understanding the needs and expectation of the interested parties
-we need to identify the stakeholders relevant to our ISMS and what requirements do they have from us
+We need to identify the stakeholders relevant to our ISMS and what requirements do they have from us
 
 ## Key interested parties and their expectations
-- Clients (Property Buyers and Sellers) -strict privacy of their personal information (PAN card, Aadhar Card, Bank details, Phone number, Property Tax ID's)
+- Clients (Property Buyers and Sellers) -Strict privacy of their personal information (PAN card, Aadhar Card, Bank details, Phone number, Property Tax ID's)
 - Real estate regulatory authorities- Following legal protocols, proper handling of property transaction records) 
 - The Business owners - Make sure his device don't break and deals aren't lost and protection against financial fraud or data theft
 
@@ -26,8 +26,8 @@ we need to identify the stakeholders relevant to our ISMS and what requirements 
 The scope of the ISMS covers functionality of the solo real estate agency, specifically focusing on the digital and physical handling of client property records, communication channel and transaction data managed by a single laptop and smartphone from a local shop in bengaluru
 
 ## Determining In Scope
-- Internal Issue - Operator managing the transaction, handling documents and the device single-handedly
-- External Issue- Establishing boundaries against the third party platforms, Our ISMS States that third party and messaging servers are Out of scope.
+- Internal Issue - Operator managing the transaction, handling documents and the device single handedly
+- External Issue - Establishing boundaries against the third party platforms, Our ISMS States that third party and messaging servers are Out of scope.
 Their infrastructure is managed by external vendors and not the solo office.
 
 # INTERFACES
