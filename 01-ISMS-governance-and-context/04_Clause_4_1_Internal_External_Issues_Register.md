@@ -1,4 +1,4 @@
-# RealtySec India Pvt Ltd
+ # RealtySec India Pvt Ltd
 ## Internal and External Issue Register
 
 ### Document Details
@@ -18,8 +18,8 @@
 ### Document Revision History / Version Control
 | Version Number | Review Date | Details of Change | Updated by | Reviewed / Approved by |
 | :---: | :---: | :--- | :--- | :--- |
-| **1.0** | 2026-10-26 | Initial Release for Clause 4.1 ISMS Scope | Sreerekh | Niranjan / Managing Broker |
-| **1.1** | 2026-10-27 | Expanded Register with 6 additional operational & technical issues | Sreerekh | Niranjan / Managing Broker |
+| **1.0** | 2026-10-26 | Initial Release for Clause 4.1 ISMS Scope | Sreerekh |  Managing Broker |
+| **1.1** | 2026-10-27 | Expanded Register with 6 additional operational & technical issues | Sreerekh |  Managing Broker |
 
 ---
 
