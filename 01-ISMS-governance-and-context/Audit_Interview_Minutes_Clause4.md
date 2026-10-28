@@ -45,10 +45,10 @@ ISO 27001:2022 Clause 4.2 requires the organization to determine the interested 
 
 | Interested Party | Category | Security & Compliance Expectation / Need | ISMS Control Mapping |
 | :--- | :--- | :--- | :--- |
-| **Clients (Buyers & Sellers)** | External | Confidentiality of KYC identity proofs (Aadhaar, PAN), land ownership records, and enforcement of signed NDAs. | **Annex A 5.31** (Legal/Regulatory Requirements) & **A 5.34** (Data Deletion) |
-| **Data Protection Board / Regulators (DPDP Act)** | Statutory / Legal | Prevention of PII data breaches, explicit consent logging, and legal compliance under India's DPDP Act. | **Annex A 5.31** (Legal Requirements) & **A 5.36** (Compliance with Policies) |
-| **Legal & Advisory Consultants** | External Advisory | Standardized contractual language, NDA enforcement, and guidance on liability mitigation. | **Annex A 5.20** (Addressing Security within Supplier Agreements) |
-| **Field Agents & Staff** | Internal | Clear guidelines on acceptable device usage, remote communication safety, and data handling rules. | **Annex A 6.3** (Information Security Awareness) & **A 8.1** (User Endpoint Devices) |
+| **Clients (Buyers & Sellers)** | External | Confidentiality of KYC identity proofs (Aadhaar, PAN), land ownership records, and enforcement of signed NDAs. | |
+| **Data Protection Board / Regulators (DPDP Act)** | Statutory / Legal | Prevention of PII data breaches, explicit consent logging, and legal compliance under India's DPDP Act. |  |
+| **Legal & Advisory Consultants** | External Advisory | Standardized contractual language, NDA enforcement, and guidance on liability mitigation. |   |
+| **Field Agents & Staff** | Internal | Clear guidelines on acceptable device usage, remote communication safety, and data handling rules. | |
 
 ---
 
