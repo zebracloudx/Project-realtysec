@@ -29,11 +29,11 @@ To ensure the effective operation of the Information Security Management System 
 
 ## 2. Security Roles & Responsibility Matrix (RACI Model)
 
-| Role / Title | Key ISMS Responsibilities & Authorities |
-| :--- | :--- |
-| **Top Management / Managing Broker** | • Approves ISMS policies, scope, and risk appetite.<br>• Allocates necessary resources and budget.<br>• Conducts management reviews. |
-| **Lead Auditor / GRC Lead (Sreerekh)** | • Maintains and updates ISMS documentation on GitHub.<br>• Conducts internal audits and risk assessments.<br>• Reports compliance status directly to leadership. |
-| **Field Agents (Team of 3)** | • Adhering to Acceptable Use, BYOD, and password policies.<br>• Reporting lost devices, phishing, or security incidents immediately.<br>• Ensuring client KYC files are handled securely via official cloud tools. |
+| Role / Title | Key ISMS Responsibilities & Authorities | ISO 27001 Control / Clause Alignment |
+| :--- | :--- | :--- |
+| **Top Management / Managing Broker** | • Approves ISMS policies, scope, and risk appetite.<br>• Allocates necessary resources and budget.<br>• Conducts annual management reviews. | Clauses 5.1, 5.2, 9.3 |
+| **Lead Auditor / GRC Lead (Sreerekh)** | • Maintains and updates ISMS documentation on GitHub.<br>• Conducts internal audits, risk assessments, and gap analyses.<br>• Reports compliance status directly to leadership. | Clauses 4.1, 6.1, 9.2 |
+| **Field Agents (Team of 3)** | • Adhering to Acceptable Use, BYOD, and password policies.<br>• Reporting lost devices, phishing, or security incidents immediately.<br>• Ensuring client KYC files are handled securely via official cloud tools. |  |
 
 ---
 
