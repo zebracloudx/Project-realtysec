@@ -1,3 +1,5 @@
+> Learning project note: RealtySec is a fictional organisation. All roles, responsibilities, approvals, dates and signatures in this document are simulated examples prepared for learning purposes. They do not represent actual organisational approval.
+
 # RealtySec India Pvt Ltd
 ## Organizational Roles, Responsibilities, and Authorities (ISO 27001:2022 Clause 5.3)
 
