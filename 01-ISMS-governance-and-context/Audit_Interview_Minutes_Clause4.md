@@ -17,7 +17,7 @@ The Founder described current operations as a lean 4-person team (1 Broker + 3 F
 
 ---
 
-## 2. Identifiing Gaps Assement
+## 2. Identified Gaps and Observations
 
 | # | Operational Practice | Security / Compliance Gap | ISO 27001 Control Mapping |
 | :---: | :--- | :--- | :--- |
