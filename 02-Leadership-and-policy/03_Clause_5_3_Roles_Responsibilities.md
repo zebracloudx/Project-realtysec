@@ -29,7 +29,7 @@ To ensure the effective operation of the Information Security Management System 
 
 ---
 
-## 2. Security Roles & Responsibility Matrix (RACI Model)
+## 2. Security Roles and Responsibilities Matrix
 
 | Role / Title | Key ISMS Responsibilities & Authorities | ISO 27001 Control / Clause Alignment |
 | :--- | :--- | :--- |
