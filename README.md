@@ -1,4 +1,4 @@
-# Project RealtySec - ISO 27001:2022 ISMS Implementation
+# Project RealtySec - ISO/IEC 27001:2022 ISMS Learning Project
 
 # Project RealtySec
 ### ISO/IEC 27001:2022 – Information Security Management System (ISMS) Learning Project
@@ -9,7 +9,7 @@ Project RealtySec is a fictional information security GRC project based on a hyp
 
 I started this project as part of my learning in Governance, Risk and Compliance (GRC), with a focus on understanding the requirements of ISO/IEC 27001:2022 and how they can be applied within an organisation.
 
-The project is being developed step by step alongside my ISO 27001 training and mentor led sessions. Each section is documented as I complete the relevant learning module.
+The project is being developed step by step alongside my ISO 27001 training and mentor-led sessions. Each section is documented as I complete the relevant learning module.
 
 The purpose is to understand the standard and gain practical experience in preparing information security governance and compliance documentation.
 
