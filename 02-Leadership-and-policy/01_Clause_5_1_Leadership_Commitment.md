@@ -1,3 +1,6 @@
+### Learning project note: RealtySec is a fictional organisation. All roles, responsibilities, approvals, dates and signatures in this document are simulated examples prepared for learning purposes. They do not represent actual organisational approval.
+
+
 # RealtySec India Pvt Ltd
 ## Statement of Leadership and Commitment (ISO 27001:2022 Clause 5.1)
 
