@@ -1,4 +1,4 @@
-> ### Learning project note: RealtySec is a fictional organisation. All roles, responsibilities, approvals, dates and signatures in this document are simulated examples prepared for learning purposes. They do not represent actual organisational approval.
+> Learning project note: RealtySec is a fictional organisation. All roles, responsibilities, approvals, dates and signatures in this document are simulated examples prepared for learning purposes. They do not represent actual organisational approval.
 
 
 # RealtySec India Pvt Ltd
