@@ -1,146 +1,160 @@
-# Clause 6.1.1 – Actions to Address Risks and Opportunities
+# RealtySec – ISMS Planning: Risks and Opportunities
 
-## 1. Document Control
+**ISO/IEC 27001:2022 – Clause 6.1.1**
+
+## 1. Document Information
 
 | Item | Details |
 |---|---|
 | Organisation | RealtySec |
 | Document ID | RTS-ISMS-PLN-001 |
-| ISO Standard | ISO/IEC 27001:2022 |
+| Standard | ISO/IEC 27001:2022 |
 | Clause | 6.1.1 – General |
-| Version | 0.1 |
+| Version | 0.2 |
 | Status | Draft – Pending Review |
-| Prepared By | GRC Lead (Project Role) |
-| Approved By | Managing Broker – Pending Approval |
+| Prepared by | GRC Lead (Project Role) |
+| Approved by | Managing Broker – Pending Approval |
+| Date | 05 November 2026 |
 
-*Note: RealtySec is a fictional organisation created for this portfolio project. Organisational details and implementation examples are based on project assumptions and simulated scenarios.*
+*Project note: RealtySec is a fictional organisation created for this portfolio project. The examples and proposed actions in this document are based on the project scenario and simulated findings.*
 
 ## 2. Purpose
 
-The purpose of this document is to describe how RealtySec determines information security risks and opportunities, plans appropriate actions, integrates those actions into its Information Security Management System (ISMS), and evaluates their effectiveness.
+This document explains how RealtySec identifies information security risks and opportunities, plans actions to address them, and checks whether those actions are effective.
 
-These activities help RealtySec protect customer information, reduce information security risks, and continually improve its ISMS.
+RealtySec handles customer information, including personal details and KYC documents. It uses Google Workspace, WhatsApp and personal mobile devices for business activities.
+
+The purpose of this planning is to protect customer information, reduce the chance of information security problems and improve the organisation's information security practices.
 
 ## 3. Scope
 
-This document applies to the entire RealtySec organisation, including:
+This document applies to the entire RealtySec business and covers:
 
-- The Managing Broker and all three Field Agents.
-- Customer information, including identity and KYC documents.
-- Google Workspace and business-related information stored or shared through it.
-- WhatsApp communications involving customer information.
-- Personal mobile devices used for business activities (BYOD).
-- The end-to-end customer onboarding and document-handling process.
+- The Managing Broker and three Field Agents.
+- Customer information, including personal and KYC documents.
+- Google Workspace and business-related files.
+- WhatsApp used for business communication.
+- Personal mobile devices used for work.
+- Customer onboarding and the handling, storage and sharing of customer documents.
 
 ## 4. Roles and Responsibilities
 
 | Role | Responsibility |
 |---|---|
-| Managing Broker | Provides business direction, assigns responsibility, approves risk treatment decisions, and accepts risks within authorised limits. |
-| GRC Lead | Coordinates risk and opportunity identification, documents findings, supports treatment planning, and monitors action effectiveness. |
-| Field Agents | Follow information security procedures, protect customer information, and report suspected security issues. |
+| Managing Broker | Provides business direction, assigns responsibilities and approves risk treatment and risk acceptance decisions within their authority. |
+| GRC Lead | Coordinates risk and opportunity identification, maintains documentation and follows up on planned actions. |
+| Field Agents | Follow approved information security procedures and report security problems. |
 
-## 5. Requirements and Approach
+## 5. Approach to Risks and Opportunities
 
-In accordance with ISO/IEC 27001:2022 Clause 6.1.1, RealtySec will:
+RealtySec will follow the requirements of Clause 6.1.1 by:
 
-1. Determine the information security risks and opportunities that need to be addressed.
-2. Plan actions to address the identified risks and opportunities.
-3. Integrate and implement these actions into relevant ISMS processes.
-4. Evaluate whether the actions are effective.
+1. Identifying risks and opportunities that need to be addressed.
+2. Planning suitable actions.
+3. Including these actions in relevant business and ISMS processes.
+4. Checking whether the actions achieve their intended results.
 
-Actions will be proportionate to the potential impact on information security and business operations.
+Actions will be appropriate to the possible impact on customer information and business operations.
 
-Detailed risk assessment and risk treatment activities will be documented separately under Clauses 6.1.2 and 6.1.3.
+Detailed risk assessment will be recorded under Clause 6.1.2. Risk treatment activities will be recorded under Clause 6.1.3.
 
-## 6. RealtySec – Identified Risk and Opportunity Examples
+## 6. Risks and Opportunities Identified
 
-### 6.1 Risk: Employee Offboarding and Access Removal
+### 6.1 Risk: Access Remaining After an Employee Leaves
 
-**Observation / Potential Issue**
+**Reference:** Clause 4.1 – INT-05 (Informal employee offboarding)
 
-RealtySec's employee offboarding process has not yet been formally documented in this project scenario. When a Field Agent leaves the organisation, their access to business systems and customer information needs to be reviewed and revoked where appropriate.
+**Situation**
 
-**Information Security Risk**
+RealtySec has identified that its employee leaving process is not yet formally documented in the project scenario.
 
-If access is not removed promptly when an employee leaves, a former employee may retain access to confidential business information and customer documents.
+When an employee leaves, access to company systems, shared files and customer information needs to be removed.
 
-**Planned Action**
+**What could happen?**
 
-- Establish a formal employee offboarding procedure.
-- Introduce an offboarding checklist covering Google Workspace, shared folders, WhatsApp-related business access, and other relevant systems.
-- Assign responsibility for completing and verifying access removal.
-- Maintain records of completed offboarding activities.
+If access is not removed promptly, a former employee may continue to access confidential business information or customer documents.
 
-**Integration into the ISMS**
+**Planned actions**
 
-The offboarding procedure will be incorporated into RealtySec's employee and access management processes.
+- Create an employee offboarding checklist.
+- Include Google Workspace, shared folders and other relevant business access in the checklist.
+- Assign responsibility for removing access.
+- Record when access has been removed.
+- Verify that the required checks have been completed.
 
-**Evaluation of Effectiveness**
+**How the action will be included in business activities**
 
-The Managing Broker and GRC Lead will review completed offboarding records and verify that access has been removed from relevant systems.
+The checklist will become part of RealtySec's employee leaving process.
 
-*Status: Proposed action – implementation and effectiveness have not yet been verified.*
+**How effectiveness will be checked**
 
-### 6.2 Opportunity: Improve Access Management
+Completed checklists and access removal records will be reviewed to confirm that access is removed when employees leave.
 
-**Opportunity Identified**
+**Current status:** Proposed. Implementation and effectiveness have not yet been verified.
 
-Introducing a structured access management process can improve accountability and reduce unnecessary access to customer information.
+### 6.2 Opportunity: Improve Employee Access Management
 
-**Planned Action**
+**Opportunity**
 
-- Assign individual user accounts wherever supported.
-- Define who can approve access to business information.
-- Maintain an access register.
-- Conduct periodic access reviews.
+RealtySec can improve how employee access to company systems and information is provided, managed and reviewed.
+
+Using individual accounts and keeping track of access can improve accountability and reduce unnecessary access.
+
+**Planned actions**
+
+- Provide individual user accounts wherever supported.
+- Define who can approve access to company information.
+- Maintain a record of employee access.
+- Review access regularly.
 - Remove access when it is no longer required.
 
-**Integration into the ISMS**
+**How the action will be included in business activities**
 
-Access management requirements will be incorporated into RealtySec's information security procedures.
+These requirements will be included in RealtySec's access management process.
 
-**Evaluation of Effectiveness**
+**How effectiveness will be checked**
 
-Access registers, approval records, and periodic access review results will be examined to determine whether access is appropriately assigned and maintained.
+User account records, access approvals and periodic review records will be checked to confirm that employees have appropriate access.
 
-*Status: Proposed improvement – implementation and effectiveness have not yet been verified.*
+**Current status:** Proposed. Implementation and effectiveness have not yet been verified.
 
 ## 7. Monitoring and Review
 
-The GRC Lead will coordinate the review of identified risks, opportunities, and planned actions.
+The GRC Lead will coordinate the monitoring of identified risks, opportunities and planned actions.
 
-The Managing Broker will review significant findings and make business decisions regarding risk treatment and acceptance.
+The Managing Broker will review important findings and make the required business decisions.
 
-The effectiveness of implemented actions will be evaluated using appropriate evidence, such as:
+Where an action does not achieve its intended result, RealtySec will review the situation and decide whether further action is needed.
 
-- Completed offboarding checklists.
+Records used for monitoring may include:
+
+- Employee offboarding checklists.
 - Access removal records.
-- User access registers.
-- Periodic access review records.
-- Records of identified issues and corrective actions.
+- Employee access records.
+- Access review results.
+- Records of information security problems and improvements.
 
-Where actions are ineffective, further improvements will be considered.
+## 8. Supporting Documents and Records
 
-## 8. Records and Supporting Documents
+The following documents and records will support this planning:
 
-The following records will support the implementation of this clause:
-
+- Clause 4.1 – Internal and External Issues Register.
 - Information Security Risk Assessment and Risk Treatment Register.
-- Risk assessment methodology.
-- Risk treatment plan.
-- Access management records.
-- Employee offboarding records.
-- Information security review records.
+- Risk Assessment Methodology.
+- Risk Treatment Plan.
+- Access Management Policy and Procedure (when developed).
+- Employee Offboarding Procedure (when developed).
+- Relevant monitoring and review records.
 
 ## 9. Review and Approval
 
 This document will be reviewed by the Managing Broker before approval.
 
-Any changes to RealtySec's business processes, information assets, technology, or information security risks may require this document to be reviewed and updated.
+It will also be reviewed when significant changes occur in RealtySec's business activities, technology, information handling or information security risks.
 
 ## 10. Document Review History
 
 | Version | Date | Description | Status |
 |---|---|---|---|
-| 0.1 | 05 November 2026 | Initial draft for Clause 6.1.1 | Pending Review |
+| 0.1 | 05 November 2026 | Initial draft | Pending Review |
+| 0.2 | 05 November 2026 | Revised structure, clarified responsibilities and linked the risk example to Clause 4.1 | Pending Review |
