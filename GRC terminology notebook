@@ -30,3 +30,14 @@ Access revocation: Removing someone's access permissions.
 Control design: Whether a control is appropriately planned.
 Operating effectiveness: Whether the control actually works in practice.
 Evidence: Records proving that a control was performed.
+Control effectiveness: How well a security control achieves its intended purpose.
+
+Risk Owner: The person accountable for managing a particular risk.
+Risk Acceptance: A decision by an authorised risk owner to retain a risk rather than implement further treatment.
+Important: A GRC professional can recommend accepting or treating a risk, but should not accept business risk on behalf of management.
+
+Risk Owner vs Asset Owner vs Asset Custodian
+- Risk Owner: Accountable for managing a particular risk.
+- Asset Owner: Accountable for an asset and its protection requirements.
+- Asset Custodian: Handles the day-to-day management or maintenance of an asset.
+They can be the same person, but they don't have to be
