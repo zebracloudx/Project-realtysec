@@ -25,3 +25,7 @@ Access revocation	          Removing a person's permission to access systems or 
 - Risk acceptance
 - Risk treatment plan
 - Statement of Applicability (SoA)
+
+Control design: Whether a control has been properly planned and established.
+Operating effectiveness: Whether the control actually works as intended in practice.
+Evidence: Records or information demonstrating that the control has been performed.
