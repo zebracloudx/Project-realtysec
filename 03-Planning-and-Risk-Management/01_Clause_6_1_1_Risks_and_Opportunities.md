@@ -10,7 +10,7 @@
 | Document ID | RTS-ISMS-PLN-001 |
 | Standard | ISO/IEC 27001:2022 |
 | Clause | 6.1.1 – General |
-| Version | 0.2 |
+| Version | 0.1 |
 | Status | Draft – Pending Review |
 | Prepared by | GRC Lead (Project Role) |
 | Approved by | Managing Broker – Pending Approval |
