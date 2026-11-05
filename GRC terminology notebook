@@ -26,6 +26,7 @@ Access revocation	          Removing a person's permission to access systems or 
 - Risk treatment plan
 - Statement of Applicability (SoA)
 
-Control design: Whether a control has been properly planned and established.
-Operating effectiveness: Whether the control actually works as intended in practice.
-Evidence: Records or information demonstrating that the control has been performed.
+Access revocation: Removing someone's access permissions.
+Control design: Whether a control is appropriately planned.
+Operating effectiveness: Whether the control actually works in practice.
+Evidence: Records proving that a control was performed.
