@@ -27,7 +27,7 @@
 
 | Issue ID | Category | Issue Description | Impact on ISMS | Monitoring Frequency |
 | :---: | :--- | :--- | :--- | :--- |
-| **EXT-01** | Legal & Regulatory | DPDP Act enforcement on personal data handling in Bangalore. | High: Mandates strict consent & PII protection. | Quarterly |
+| **EXT-01** | Legal & Regulatory | Applicable Indian data protection laws and regulatory requirements governing the processing of personal data. | High: Mandates strict consent & PII protection. | Quarterly |
 | **EXT-02** | Cyber Threat | Phishing, credential theft, and unauthorized WhatsApp data exposure. | High: Requires MFA & BYOD endpoint policies. | Monthly |
 | **EXT-03** | Client Expectation | High-Net-Worth clients requiring strict NDA enforcement for land deals. | Medium: Must embed confidentiality into deal workflows. | Per Deal |
 | **EXT-04** | Cloud Vendor | Dependency on Google Workspace & WhatsApp platform uptime/availability. | High: Business continuity & backup planning required. | Annual / Vendor Assessment |
