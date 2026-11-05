@@ -1,1 +1,27 @@
+Term	                                      Meaning
+Risk	                      Something that could negatively affect information security.
+Opportunity	                Something that could improve the ISMS or its performance.
+Offboarding	                Formal process of managing an employee's departure, including access removal.
+Access revocation	          Removing a person's permission to access systems or information.
 
+1. Risk fundamentals
+- Asset – Something valuable that needs protection.
+- Threat – Something that could cause harm.
+- Vulnerability – A weakness that a threat could exploit.
+- Risk – The possibility of harm when a threat exploits a vulnerability.
+
+2. Risk assessment and treatment
+- Inherent risk – Risk before considering controls.
+- Risk treatment – Actions taken to modify risk.
+- Residual risk – Risk remaining after controls are implemented and their effectiveness assessed.
+
+
+- Risk appetite
+- Risk tolerance
+- Likelihood
+- Impact
+- Risk owner
+- Control effectiveness
+- Risk acceptance
+- Risk treatment plan
+- Statement of Applicability (SoA)
